@@ -32,9 +32,7 @@ Repo adı: EnesYenicirak (GitHub kullanıcı adın ne ise aynısı olmalı)
 ## ✨ Hakkımda
 - 🎓 Bilgisayar Mühendisliği öğrencisi  
 - 🏢 **NovanestTech** ile AI tabanlı mobil & web ürünler geliştiriyorum  
-- 🤖 Odak: **Agentic AI**, **RAG**, **workflow automation (n8n benzeri)**, **fine-tuning / LoRA**, **big data entegrasyonları**  
-- 🧠 Türkçe konuşan, kişilikli, dökümanlara dayalı üretken asistanlar (VUDY / Woody gibi) geliştiriyorum  
-
+ 
 ---
 
 ## 🧰 Teknolojiler & Araçlar
