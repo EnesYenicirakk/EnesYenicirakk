@@ -75,24 +75,6 @@ Repo adı: EnesYenicirak (GitHub kullanıcı adın ne ise aynısı olmalı)
 
 ---
 
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-
-<!-- Kullanıcı adını düzenle -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=[KULLANICI_ADIN]&show_icons=true&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[KULLANICI_ADIN]&layout=compact&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=[KULLANICI_ADIN]&hide_border=true" />
-
-</div>
-
----
-
 ## 🤝 İletişim
 - 💼 LinkedIn: https://www.linkedin.com/in/enes-yeni%C3%A7%C4%B1rak-944a4b33b/
 - 🌐 Website: https://novanesttech.com
