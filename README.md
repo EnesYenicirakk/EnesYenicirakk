@@ -14,13 +14,13 @@ Repo adı: EnesYenicirak (GitHub kullanıcı adın ne ise aynısı olmalı)
 
 <!-- Sosyal bağlantılar (düzenle) -->
 <p>
-  <a href="https://www.linkedin.com/in/[LINKEDIN_KULLANICI_ADIN]/" target="_blank">
+  <a href="https://www.linkedin.com/in/enes-yeni%C3%A7%C4%B1rak-944a4b33b//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://novanesttech.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="mailto:[MAIL_ADRESIN]">
+  <a href="mailto:enesyenicirak52053@gmail.com">
     <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
