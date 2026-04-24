@@ -30,8 +30,8 @@ Repo adı: EnesYenicirak (GitHub kullanıcı adın ne ise aynısı olmalı)
 ---
 
 ## ✨ Hakkımda
-- 🎓 Bilgisayar Mühendisliği öğrencisi  
-- 🏢 **NovanestTech** ile AI tabanlı mobil & web ürünler geliştiriyorum  
+- 🎓 Bilgisayar Mühendisliği 3. Sınıf Öğrencisiyim 
+
  
 ---
 
