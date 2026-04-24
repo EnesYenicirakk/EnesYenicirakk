@@ -6,7 +6,7 @@ Repo adı: EnesYenicirak (GitHub kullanıcı adın ne ise aynısı olmalı)
 <div align="center">
 
 # 👋 Enes Yeniçırak  
-### AI + Full-Stack Developer | Founder @ **NovanestTech**  
+### AI + Full-Stack Developer  
 
 🚀 Yapay zekâ tabanlı web & mobil ürünler geliştiriyorum.  
 🧩 Agentic AI, RAG, otomasyon sistemleri ve ürünleştirme odaklı projeler üretiyorum.  
