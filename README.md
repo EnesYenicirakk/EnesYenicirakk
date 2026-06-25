@@ -102,10 +102,6 @@ Repo adı: EnesYenicirak (GitHub kullanıcı adın ile birebir aynı olmalı)
     <td><a href="https://www.linkedin.com/in/enes-yeni%C3%A7%C4%B1rak-944a4b33b/">linkedin.com/in/enes-yeniçirak</a></td>
   </tr>
   <tr>
-    <td>🌐 <b>Website</b></td>
-    <td><a href="https://novanesttech.com">novanesttech.com</a></td>
-  </tr>
-  <tr>
     <td>✉️ <b>E-Mail</b></td>
     <td><a href="mailto:enesyenicirak52053@gmail.com">enesyenicirak52053@gmail.com</a></td>
   </tr>
